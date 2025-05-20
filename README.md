@@ -37,3 +37,6 @@ python adivinar.py
 adivina_numero/
 ├── adivinar.py
 └── README.md
+
+
+Desarrollado por Mauricio P. para su portafolio Python – GPT Academy 2025.
